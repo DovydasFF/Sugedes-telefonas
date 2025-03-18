@@ -75,7 +75,7 @@ DR atsako:
 .
 
 DS klausia:
-- ... ?
+- Kelinta valanda saulė kyla ?
 
 .
 
@@ -110,7 +110,7 @@ DR klausia:
 .
 
 DS atsako:
-- ... .
+-  Turiu 4 karves.
 
 .
 
